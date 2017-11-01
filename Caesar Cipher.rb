@@ -47,19 +47,3 @@ puts "Please enter number to encrypt your message: "
 shift = gets.chomp.to_i
 
 caesar(text, shift)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
